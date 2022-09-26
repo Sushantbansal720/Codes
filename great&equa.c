@@ -10,6 +10,6 @@ int main ()
 
     if(a>b)
     {
-        printf
+        printf("a")
     }
 }
